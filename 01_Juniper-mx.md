@@ -1,5 +1,11 @@
 ## Juniper
 
+#### CPU
+    show chassis routing-engine 
+    show chassis alarm
+####
+    
+
 #### Перегляд інформації по інтерфейсам (фізичні та логічні)
     show interfaces xe-a/b/c
 ####
